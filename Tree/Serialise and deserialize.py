@@ -14,7 +14,7 @@ class Codec:
 
     def deserialize(self, data: str) -> Optional[TreeNode]:
         vals = data.split(",")
-        self.i = 0 # Pointer to keep track of our position in the list
+        self.i = 0 
 
         def dfs():
             if vals[self.i] == "N":
