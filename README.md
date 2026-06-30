@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2741-special-permutations](https://github.com/praveenkumarre46/DSA-Revision/tree/master/2741-special-permutations) |
 | [3393-count-paths-with-the-given-xor-value](https://github.com/praveenkumarre46/DSA-Revision/tree/master/3393-count-paths-with-the-given-xor-value) |
 | [3447-assign-elements-to-groups-with-constraints](https://github.com/praveenkumarre46/DSA-Revision/tree/master/3447-assign-elements-to-groups-with-constraints) |
+| [3854-minimum-operations-to-make-array-parity-alternating](https://github.com/praveenkumarre46/DSA-Revision/tree/master/3854-minimum-operations-to-make-array-parity-alternating) |
 ## Hash Table
 |  |
 | ------- |
@@ -56,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/praveenkumarre46/DSA-Revision/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
+## Greedy
+|  |
+| ------- |
+| [3854-minimum-operations-to-make-array-parity-alternating](https://github.com/praveenkumarre46/DSA-Revision/tree/master/3854-minimum-operations-to-make-array-parity-alternating) |
 <!---LeetCode Topics End-->
