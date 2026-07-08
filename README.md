@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/praveenkumarre46/DSA-Revision/tree/master/0102-binary-tree-level-order-traversal) |
+| [0365-water-and-jug-problem](https://github.com/praveenkumarre46/DSA-Revision/tree/master/0365-water-and-jug-problem) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/praveenkumarre46/DSA-Revision/tree/master/0515-find-largest-value-in-each-tree-row) |
 ## Binary Tree
 |  |
@@ -100,5 +101,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0365-water-and-jug-problem](https://github.com/praveenkumarre46/DSA-Revision/tree/master/0365-water-and-jug-problem) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/praveenkumarre46/DSA-Revision/tree/master/0515-find-largest-value-in-each-tree-row) |
+## Math
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/praveenkumarre46/DSA-Revision/tree/master/0365-water-and-jug-problem) |
 <!---LeetCode Topics End-->
