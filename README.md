@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1298-maximum-candies-you-can-get-from-boxes](https://github.com/praveenkumarre46/DSA-Revision/tree/master/1298-maximum-candies-you-can-get-from-boxes) |
 | [1306-jump-game-iii](https://github.com/praveenkumarre46/DSA-Revision/tree/master/1306-jump-game-iii) |
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/praveenkumarre46/DSA-Revision/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/praveenkumarre46/DSA-Revision/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/praveenkumarre46/DSA-Revision/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0993-cousins-in-binary-tree](https://github.com/praveenkumarre46/DSA-Revision/tree/master/0993-cousins-in-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/praveenkumarre46/DSA-Revision/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1298-maximum-candies-you-can-get-from-boxes](https://github.com/praveenkumarre46/DSA-Revision/tree/master/1298-maximum-candies-you-can-get-from-boxes) |
 | [1302-deepest-leaves-sum](https://github.com/praveenkumarre46/DSA-Revision/tree/master/1302-deepest-leaves-sum) |
 | [1306-jump-game-iii](https://github.com/praveenkumarre46/DSA-Revision/tree/master/1306-jump-game-iii) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/praveenkumarre46/DSA-Revision/tree/master/1926-nearest-exit-from-entrance-in-maze) |
@@ -128,4 +130,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0365-water-and-jug-problem](https://github.com/praveenkumarre46/DSA-Revision/tree/master/0365-water-and-jug-problem) |
+## Graph Theory
+|  |
+| ------- |
+| [1298-maximum-candies-you-can-get-from-boxes](https://github.com/praveenkumarre46/DSA-Revision/tree/master/1298-maximum-candies-you-can-get-from-boxes) |
 <!---LeetCode Topics End-->
