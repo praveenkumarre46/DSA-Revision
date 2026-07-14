@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1298-maximum-candies-you-can-get-from-boxes](https://github.com/praveenkumarre46/DSA-Revision/tree/master/1298-maximum-candies-you-can-get-from-boxes) |
 | [1306-jump-game-iii](https://github.com/praveenkumarre46/DSA-Revision/tree/master/1306-jump-game-iii) |
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/praveenkumarre46/DSA-Revision/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
+| [1765-map-of-highest-peak](https://github.com/praveenkumarre46/DSA-Revision/tree/master/1765-map-of-highest-peak) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/praveenkumarre46/DSA-Revision/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/praveenkumarre46/DSA-Revision/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2212-maximum-points-in-an-archery-competition](https://github.com/praveenkumarre46/DSA-Revision/tree/master/2212-maximum-points-in-an-archery-competition) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0675-cut-off-trees-for-golf-event](https://github.com/praveenkumarre46/DSA-Revision/tree/master/0675-cut-off-trees-for-golf-event) |
+| [1765-map-of-highest-peak](https://github.com/praveenkumarre46/DSA-Revision/tree/master/1765-map-of-highest-peak) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/praveenkumarre46/DSA-Revision/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2352-equal-row-and-column-pairs](https://github.com/praveenkumarre46/DSA-Revision/tree/master/2352-equal-row-and-column-pairs) |
 | [2661-first-completely-painted-row-or-column](https://github.com/praveenkumarre46/DSA-Revision/tree/master/2661-first-completely-painted-row-or-column) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1298-maximum-candies-you-can-get-from-boxes](https://github.com/praveenkumarre46/DSA-Revision/tree/master/1298-maximum-candies-you-can-get-from-boxes) |
 | [1302-deepest-leaves-sum](https://github.com/praveenkumarre46/DSA-Revision/tree/master/1302-deepest-leaves-sum) |
 | [1306-jump-game-iii](https://github.com/praveenkumarre46/DSA-Revision/tree/master/1306-jump-game-iii) |
+| [1765-map-of-highest-peak](https://github.com/praveenkumarre46/DSA-Revision/tree/master/1765-map-of-highest-peak) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/praveenkumarre46/DSA-Revision/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 ## Binary Tree
 |  |
