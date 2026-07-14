@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0675-cut-off-trees-for-golf-event](https://github.com/praveenkumarre46/DSA-Revision/tree/master/0675-cut-off-trees-for-golf-event) |
 | [1298-maximum-candies-you-can-get-from-boxes](https://github.com/praveenkumarre46/DSA-Revision/tree/master/1298-maximum-candies-you-can-get-from-boxes) |
 | [1306-jump-game-iii](https://github.com/praveenkumarre46/DSA-Revision/tree/master/1306-jump-game-iii) |
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/praveenkumarre46/DSA-Revision/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0675-cut-off-trees-for-golf-event](https://github.com/praveenkumarre46/DSA-Revision/tree/master/0675-cut-off-trees-for-golf-event) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/praveenkumarre46/DSA-Revision/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2352-equal-row-and-column-pairs](https://github.com/praveenkumarre46/DSA-Revision/tree/master/2352-equal-row-and-column-pairs) |
 | [2661-first-completely-painted-row-or-column](https://github.com/praveenkumarre46/DSA-Revision/tree/master/2661-first-completely-painted-row-or-column) |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0675-cut-off-trees-for-golf-event](https://github.com/praveenkumarre46/DSA-Revision/tree/master/0675-cut-off-trees-for-golf-event) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/praveenkumarre46/DSA-Revision/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Greedy
 |  |
@@ -102,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/praveenkumarre46/DSA-Revision/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0365-water-and-jug-problem](https://github.com/praveenkumarre46/DSA-Revision/tree/master/0365-water-and-jug-problem) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/praveenkumarre46/DSA-Revision/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0675-cut-off-trees-for-golf-event](https://github.com/praveenkumarre46/DSA-Revision/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0993-cousins-in-binary-tree](https://github.com/praveenkumarre46/DSA-Revision/tree/master/0993-cousins-in-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/praveenkumarre46/DSA-Revision/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1298-maximum-candies-you-can-get-from-boxes](https://github.com/praveenkumarre46/DSA-Revision/tree/master/1298-maximum-candies-you-can-get-from-boxes) |
