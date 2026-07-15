@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1298-maximum-candies-you-can-get-from-boxes](https://github.com/praveenkumarre46/DSA-Revision/tree/master/1298-maximum-candies-you-can-get-from-boxes) |
 | [1306-jump-game-iii](https://github.com/praveenkumarre46/DSA-Revision/tree/master/1306-jump-game-iii) |
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/praveenkumarre46/DSA-Revision/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
+| [1654-minimum-jumps-to-reach-home](https://github.com/praveenkumarre46/DSA-Revision/tree/master/1654-minimum-jumps-to-reach-home) |
 | [1765-map-of-highest-peak](https://github.com/praveenkumarre46/DSA-Revision/tree/master/1765-map-of-highest-peak) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/praveenkumarre46/DSA-Revision/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/praveenkumarre46/DSA-Revision/tree/master/1926-nearest-exit-from-entrance-in-maze) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [1654-minimum-jumps-to-reach-home](https://github.com/praveenkumarre46/DSA-Revision/tree/master/1654-minimum-jumps-to-reach-home) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/praveenkumarre46/DSA-Revision/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2352-equal-row-and-column-pairs](https://github.com/praveenkumarre46/DSA-Revision/tree/master/2352-equal-row-and-column-pairs) |
 | [2661-first-completely-painted-row-or-column](https://github.com/praveenkumarre46/DSA-Revision/tree/master/2661-first-completely-painted-row-or-column) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1298-maximum-candies-you-can-get-from-boxes](https://github.com/praveenkumarre46/DSA-Revision/tree/master/1298-maximum-candies-you-can-get-from-boxes) |
 | [1302-deepest-leaves-sum](https://github.com/praveenkumarre46/DSA-Revision/tree/master/1302-deepest-leaves-sum) |
 | [1306-jump-game-iii](https://github.com/praveenkumarre46/DSA-Revision/tree/master/1306-jump-game-iii) |
+| [1654-minimum-jumps-to-reach-home](https://github.com/praveenkumarre46/DSA-Revision/tree/master/1654-minimum-jumps-to-reach-home) |
 | [1765-map-of-highest-peak](https://github.com/praveenkumarre46/DSA-Revision/tree/master/1765-map-of-highest-peak) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/praveenkumarre46/DSA-Revision/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 ## Binary Tree
