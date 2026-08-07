@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/praveenkumarre46/DSA-Revision/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/praveenkumarre46/DSA-Revision/tree/master/0102-binary-tree-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/praveenkumarre46/DSA-Revision/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0112-path-sum](https://github.com/praveenkumarre46/DSA-Revision/tree/master/0112-path-sum) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/praveenkumarre46/DSA-Revision/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0993-cousins-in-binary-tree](https://github.com/praveenkumarre46/DSA-Revision/tree/master/0993-cousins-in-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/praveenkumarre46/DSA-Revision/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/praveenkumarre46/DSA-Revision/tree/master/0102-binary-tree-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/praveenkumarre46/DSA-Revision/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0112-path-sum](https://github.com/praveenkumarre46/DSA-Revision/tree/master/0112-path-sum) |
 | [0365-water-and-jug-problem](https://github.com/praveenkumarre46/DSA-Revision/tree/master/0365-water-and-jug-problem) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/praveenkumarre46/DSA-Revision/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/praveenkumarre46/DSA-Revision/tree/master/0675-cut-off-trees-for-golf-event) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/praveenkumarre46/DSA-Revision/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/praveenkumarre46/DSA-Revision/tree/master/0102-binary-tree-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/praveenkumarre46/DSA-Revision/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0112-path-sum](https://github.com/praveenkumarre46/DSA-Revision/tree/master/0112-path-sum) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/praveenkumarre46/DSA-Revision/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0993-cousins-in-binary-tree](https://github.com/praveenkumarre46/DSA-Revision/tree/master/0993-cousins-in-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/praveenkumarre46/DSA-Revision/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -140,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/praveenkumarre46/DSA-Revision/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/praveenkumarre46/DSA-Revision/tree/master/0094-binary-tree-inorder-traversal) |
+| [0112-path-sum](https://github.com/praveenkumarre46/DSA-Revision/tree/master/0112-path-sum) |
 | [0365-water-and-jug-problem](https://github.com/praveenkumarre46/DSA-Revision/tree/master/0365-water-and-jug-problem) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/praveenkumarre46/DSA-Revision/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0993-cousins-in-binary-tree](https://github.com/praveenkumarre46/DSA-Revision/tree/master/0993-cousins-in-binary-tree) |
