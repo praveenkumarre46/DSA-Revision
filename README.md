@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0993-cousins-in-binary-tree](https://github.com/praveenkumarre46/DSA-Revision/tree/master/0993-cousins-in-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/praveenkumarre46/DSA-Revision/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/praveenkumarre46/DSA-Revision/tree/master/1302-deepest-leaves-sum) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/praveenkumarre46/DSA-Revision/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0993-cousins-in-binary-tree](https://github.com/praveenkumarre46/DSA-Revision/tree/master/0993-cousins-in-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/praveenkumarre46/DSA-Revision/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/praveenkumarre46/DSA-Revision/tree/master/1302-deepest-leaves-sum) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/praveenkumarre46/DSA-Revision/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/praveenkumarre46/DSA-Revision/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/praveenkumarre46/DSA-Revision/tree/master/1302-deepest-leaves-sum) |
 | [1306-jump-game-iii](https://github.com/praveenkumarre46/DSA-Revision/tree/master/1306-jump-game-iii) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/praveenkumarre46/DSA-Revision/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Math
 |  |
 | ------- |
