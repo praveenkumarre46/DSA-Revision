@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/praveenkumarre46/DSA-Revision/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/praveenkumarre46/DSA-Revision/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0814-binary-tree-pruning](https://github.com/praveenkumarre46/DSA-Revision/tree/master/0814-binary-tree-pruning) |
+| [0897-increasing-order-search-tree](https://github.com/praveenkumarre46/DSA-Revision/tree/master/0897-increasing-order-search-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/praveenkumarre46/DSA-Revision/tree/master/0993-cousins-in-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/praveenkumarre46/DSA-Revision/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/praveenkumarre46/DSA-Revision/tree/master/1302-deepest-leaves-sum) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/praveenkumarre46/DSA-Revision/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/praveenkumarre46/DSA-Revision/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0814-binary-tree-pruning](https://github.com/praveenkumarre46/DSA-Revision/tree/master/0814-binary-tree-pruning) |
+| [0897-increasing-order-search-tree](https://github.com/praveenkumarre46/DSA-Revision/tree/master/0897-increasing-order-search-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/praveenkumarre46/DSA-Revision/tree/master/0993-cousins-in-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/praveenkumarre46/DSA-Revision/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/praveenkumarre46/DSA-Revision/tree/master/1302-deepest-leaves-sum) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/praveenkumarre46/DSA-Revision/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/praveenkumarre46/DSA-Revision/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0814-binary-tree-pruning](https://github.com/praveenkumarre46/DSA-Revision/tree/master/0814-binary-tree-pruning) |
+| [0897-increasing-order-search-tree](https://github.com/praveenkumarre46/DSA-Revision/tree/master/0897-increasing-order-search-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/praveenkumarre46/DSA-Revision/tree/master/0993-cousins-in-binary-tree) |
 | [1034-coloring-a-border](https://github.com/praveenkumarre46/DSA-Revision/tree/master/1034-coloring-a-border) |
 | [1036-escape-a-large-maze](https://github.com/praveenkumarre46/DSA-Revision/tree/master/1036-escape-a-large-maze) |
@@ -185,8 +188,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/praveenkumarre46/DSA-Revision/tree/master/0094-binary-tree-inorder-traversal) |
+| [0897-increasing-order-search-tree](https://github.com/praveenkumarre46/DSA-Revision/tree/master/0897-increasing-order-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/praveenkumarre46/DSA-Revision/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0897-increasing-order-search-tree](https://github.com/praveenkumarre46/DSA-Revision/tree/master/0897-increasing-order-search-tree) |
 <!---LeetCode Topics End-->
