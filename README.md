@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0126-word-ladder-ii](https://github.com/praveenkumarre46/DSA-Revision/tree/master/0126-word-ladder-ii) |
 | [1036-escape-a-large-maze](https://github.com/praveenkumarre46/DSA-Revision/tree/master/1036-escape-a-large-maze) |
 | [1654-minimum-jumps-to-reach-home](https://github.com/praveenkumarre46/DSA-Revision/tree/master/1654-minimum-jumps-to-reach-home) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/praveenkumarre46/DSA-Revision/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/praveenkumarre46/DSA-Revision/tree/master/0079-word-search) |
+| [0126-word-ladder-ii](https://github.com/praveenkumarre46/DSA-Revision/tree/master/0126-word-ladder-ii) |
 | [2212-maximum-points-in-an-archery-competition](https://github.com/praveenkumarre46/DSA-Revision/tree/master/2212-maximum-points-in-an-archery-competition) |
 ## Bit Manipulation
 |  |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/praveenkumarre46/DSA-Revision/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/praveenkumarre46/DSA-Revision/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/praveenkumarre46/DSA-Revision/tree/master/0112-path-sum) |
+| [0126-word-ladder-ii](https://github.com/praveenkumarre46/DSA-Revision/tree/master/0126-word-ladder-ii) |
 | [0365-water-and-jug-problem](https://github.com/praveenkumarre46/DSA-Revision/tree/master/0365-water-and-jug-problem) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/praveenkumarre46/DSA-Revision/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/praveenkumarre46/DSA-Revision/tree/master/0675-cut-off-trees-for-golf-event) |
@@ -184,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/praveenkumarre46/DSA-Revision/tree/master/0079-word-search) |
+| [0126-word-ladder-ii](https://github.com/praveenkumarre46/DSA-Revision/tree/master/0126-word-ladder-ii) |
 ## Stack
 |  |
 | ------- |
@@ -194,4 +198,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/praveenkumarre46/DSA-Revision/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0897-increasing-order-search-tree](https://github.com/praveenkumarre46/DSA-Revision/tree/master/0897-increasing-order-search-tree) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0126-word-ladder-ii](https://github.com/praveenkumarre46/DSA-Revision/tree/master/0126-word-ladder-ii) |
 <!---LeetCode Topics End-->
