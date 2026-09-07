@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0940-distinct-subsequences-ii](https://github.com/praveenkumarre46/DSA-Revision/tree/master/0940-distinct-subsequences-ii) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/praveenkumarre46/DSA-Revision/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/praveenkumarre46/DSA-Revision/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
 | [2741-special-permutations](https://github.com/praveenkumarre46/DSA-Revision/tree/master/2741-special-permutations) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/praveenkumarre46/DSA-Revision/tree/master/0079-word-search) |
 | [0126-word-ladder-ii](https://github.com/praveenkumarre46/DSA-Revision/tree/master/0126-word-ladder-ii) |
+| [0940-distinct-subsequences-ii](https://github.com/praveenkumarre46/DSA-Revision/tree/master/0940-distinct-subsequences-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/praveenkumarre46/DSA-Revision/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Stack
 |  |
