@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2741-special-permutations](https://github.com/praveenkumarre46/DSA-Revision/tree/master/2741-special-permutations) |
 | [3393-count-paths-with-the-given-xor-value](https://github.com/praveenkumarre46/DSA-Revision/tree/master/3393-count-paths-with-the-given-xor-value) |
 | [3447-assign-elements-to-groups-with-constraints](https://github.com/praveenkumarre46/DSA-Revision/tree/master/3447-assign-elements-to-groups-with-constraints) |
+| [3483-unique-3-digit-even-numbers](https://github.com/praveenkumarre46/DSA-Revision/tree/master/3483-unique-3-digit-even-numbers) |
 | [3854-minimum-operations-to-make-array-parity-alternating](https://github.com/praveenkumarre46/DSA-Revision/tree/master/3854-minimum-operations-to-make-array-parity-alternating) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/praveenkumarre46/DSA-Revision/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/praveenkumarre46/DSA-Revision/tree/master/3903-smallest-stable-index-i) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2352-equal-row-and-column-pairs](https://github.com/praveenkumarre46/DSA-Revision/tree/master/2352-equal-row-and-column-pairs) |
 | [2661-first-completely-painted-row-or-column](https://github.com/praveenkumarre46/DSA-Revision/tree/master/2661-first-completely-painted-row-or-column) |
 | [3447-assign-elements-to-groups-with-constraints](https://github.com/praveenkumarre46/DSA-Revision/tree/master/3447-assign-elements-to-groups-with-constraints) |
+| [3483-unique-3-digit-even-numbers](https://github.com/praveenkumarre46/DSA-Revision/tree/master/3483-unique-3-digit-even-numbers) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/praveenkumarre46/DSA-Revision/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Matrix
 |  |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2212-maximum-points-in-an-archery-competition](https://github.com/praveenkumarre46/DSA-Revision/tree/master/2212-maximum-points-in-an-archery-competition) |
+| [3483-unique-3-digit-even-numbers](https://github.com/praveenkumarre46/DSA-Revision/tree/master/3483-unique-3-digit-even-numbers) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/praveenkumarre46/DSA-Revision/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Dynamic Programming
 |  |
@@ -238,4 +241,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/praveenkumarre46/DSA-Revision/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+## Recursion
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/praveenkumarre46/DSA-Revision/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
