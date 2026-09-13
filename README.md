@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/praveenkumarre46/DSA-Revision/tree/master/0079-word-search) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/praveenkumarre46/DSA-Revision/tree/master/0675-cut-off-trees-for-golf-event) |
+| [0835-image-overlap](https://github.com/praveenkumarre46/DSA-Revision/tree/master/0835-image-overlap) |
 | [1034-coloring-a-border](https://github.com/praveenkumarre46/DSA-Revision/tree/master/1034-coloring-a-border) |
 | [1036-escape-a-large-maze](https://github.com/praveenkumarre46/DSA-Revision/tree/master/1036-escape-a-large-maze) |
 | [1298-maximum-candies-you-can-get-from-boxes](https://github.com/praveenkumarre46/DSA-Revision/tree/master/1298-maximum-candies-you-can-get-from-boxes) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/praveenkumarre46/DSA-Revision/tree/master/0079-word-search) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/praveenkumarre46/DSA-Revision/tree/master/0675-cut-off-trees-for-golf-event) |
+| [0835-image-overlap](https://github.com/praveenkumarre46/DSA-Revision/tree/master/0835-image-overlap) |
 | [1034-coloring-a-border](https://github.com/praveenkumarre46/DSA-Revision/tree/master/1034-coloring-a-border) |
 | [1765-map-of-highest-peak](https://github.com/praveenkumarre46/DSA-Revision/tree/master/1765-map-of-highest-peak) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/praveenkumarre46/DSA-Revision/tree/master/1926-nearest-exit-from-entrance-in-maze) |
