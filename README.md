@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/praveenkumarre46/DSA-Revision/tree/master/0126-word-ladder-ii) |
 | [1036-escape-a-large-maze](https://github.com/praveenkumarre46/DSA-Revision/tree/master/1036-escape-a-large-maze) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/praveenkumarre46/DSA-Revision/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/praveenkumarre46/DSA-Revision/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1654-minimum-jumps-to-reach-home](https://github.com/praveenkumarre46/DSA-Revision/tree/master/1654-minimum-jumps-to-reach-home) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/praveenkumarre46/DSA-Revision/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2352-equal-row-and-column-pairs](https://github.com/praveenkumarre46/DSA-Revision/tree/master/2352-equal-row-and-column-pairs) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/praveenkumarre46/DSA-Revision/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/praveenkumarre46/DSA-Revision/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/praveenkumarre46/DSA-Revision/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/praveenkumarre46/DSA-Revision/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/praveenkumarre46/DSA-Revision/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/praveenkumarre46/DSA-Revision/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/praveenkumarre46/DSA-Revision/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/praveenkumarre46/DSA-Revision/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -223,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/praveenkumarre46/DSA-Revision/tree/master/0079-word-search) |
 | [0126-word-ladder-ii](https://github.com/praveenkumarre46/DSA-Revision/tree/master/0126-word-ladder-ii) |
 | [0940-distinct-subsequences-ii](https://github.com/praveenkumarre46/DSA-Revision/tree/master/0940-distinct-subsequences-ii) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/praveenkumarre46/DSA-Revision/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/praveenkumarre46/DSA-Revision/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/praveenkumarre46/DSA-Revision/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Stack
