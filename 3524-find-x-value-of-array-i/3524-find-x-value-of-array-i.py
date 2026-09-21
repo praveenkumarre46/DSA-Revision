@@ -1,0 +1,24 @@
+from typing import List
+
+class Solution:
+    def resultArray(self, nums: List[int], k: int) -> List[int]:
+        ans = [0] * k
+        dp = [0] * k
+        
+        for num in nums:
+            mod = num % k
+            next_dp = [0] * k
+            
+            next_dp[mod] += 1
+            
+            for r in range(k):
+                if dp[r] > 0:
+                    next_r = (r * mod) % k
+                    next_dp[next_r] += dp[r]
+            
+            for r in range(k):
+                ans[r] += next_dp[r]
+            
+            dp = next_dp
+            
+        return ans
