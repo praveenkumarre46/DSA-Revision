@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-escape-a-large-maze](https://github.com/praveenkumarre46/DSA-Revision/tree/master/1036-escape-a-large-maze) |
 | [1298-maximum-candies-you-can-get-from-boxes](https://github.com/praveenkumarre46/DSA-Revision/tree/master/1298-maximum-candies-you-can-get-from-boxes) |
 | [1306-jump-game-iii](https://github.com/praveenkumarre46/DSA-Revision/tree/master/1306-jump-game-iii) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/praveenkumarre46/DSA-Revision/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/praveenkumarre46/DSA-Revision/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/praveenkumarre46/DSA-Revision/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
 | [1654-minimum-jumps-to-reach-home](https://github.com/praveenkumarre46/DSA-Revision/tree/master/1654-minimum-jumps-to-reach-home) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0126-word-ladder-ii](https://github.com/praveenkumarre46/DSA-Revision/tree/master/0126-word-ladder-ii) |
 | [1036-escape-a-large-maze](https://github.com/praveenkumarre46/DSA-Revision/tree/master/1036-escape-a-large-maze) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/praveenkumarre46/DSA-Revision/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/praveenkumarre46/DSA-Revision/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/praveenkumarre46/DSA-Revision/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1654-minimum-jumps-to-reach-home](https://github.com/praveenkumarre46/DSA-Revision/tree/master/1654-minimum-jumps-to-reach-home) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/praveenkumarre46/DSA-Revision/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/praveenkumarre46/DSA-Revision/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/praveenkumarre46/DSA-Revision/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/praveenkumarre46/DSA-Revision/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -286,4 +289,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/praveenkumarre46/DSA-Revision/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/praveenkumarre46/DSA-Revision/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
