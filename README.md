@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/praveenkumarre46/DSA-Revision/tree/master/0079-word-search) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/praveenkumarre46/DSA-Revision/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/praveenkumarre46/DSA-Revision/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0835-image-overlap](https://github.com/praveenkumarre46/DSA-Revision/tree/master/0835-image-overlap) |
 | [1034-coloring-a-border](https://github.com/praveenkumarre46/DSA-Revision/tree/master/1034-coloring-a-border) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/praveenkumarre46/DSA-Revision/tree/master/0079-word-search) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/praveenkumarre46/DSA-Revision/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/praveenkumarre46/DSA-Revision/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0835-image-overlap](https://github.com/praveenkumarre46/DSA-Revision/tree/master/0835-image-overlap) |
 | [1034-coloring-a-border](https://github.com/praveenkumarre46/DSA-Revision/tree/master/1034-coloring-a-border) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/praveenkumarre46/DSA-Revision/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/praveenkumarre46/DSA-Revision/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/praveenkumarre46/DSA-Revision/tree/master/0115-distinct-subsequences) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/praveenkumarre46/DSA-Revision/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/praveenkumarre46/DSA-Revision/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/praveenkumarre46/DSA-Revision/tree/master/0940-distinct-subsequences-ii) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/praveenkumarre46/DSA-Revision/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -183,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/praveenkumarre46/DSA-Revision/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/praveenkumarre46/DSA-Revision/tree/master/0112-path-sum) |
 | [0126-word-ladder-ii](https://github.com/praveenkumarre46/DSA-Revision/tree/master/0126-word-ladder-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/praveenkumarre46/DSA-Revision/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0365-water-and-jug-problem](https://github.com/praveenkumarre46/DSA-Revision/tree/master/0365-water-and-jug-problem) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/praveenkumarre46/DSA-Revision/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/praveenkumarre46/DSA-Revision/tree/master/0675-cut-off-trees-for-golf-event) |
@@ -221,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/praveenkumarre46/DSA-Revision/tree/master/0094-binary-tree-inorder-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/praveenkumarre46/DSA-Revision/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/praveenkumarre46/DSA-Revision/tree/master/0112-path-sum) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/praveenkumarre46/DSA-Revision/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0365-water-and-jug-problem](https://github.com/praveenkumarre46/DSA-Revision/tree/master/0365-water-and-jug-problem) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/praveenkumarre46/DSA-Revision/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/praveenkumarre46/DSA-Revision/tree/master/0783-minimum-distance-between-bst-nodes) |
@@ -247,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/praveenkumarre46/DSA-Revision/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1298-maximum-candies-you-can-get-from-boxes](https://github.com/praveenkumarre46/DSA-Revision/tree/master/1298-maximum-candies-you-can-get-from-boxes) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/praveenkumarre46/DSA-Revision/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## String
@@ -342,4 +348,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/praveenkumarre46/DSA-Revision/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/praveenkumarre46/DSA-Revision/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/praveenkumarre46/DSA-Revision/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Topological Sort
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/praveenkumarre46/DSA-Revision/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Memoization
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/praveenkumarre46/DSA-Revision/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/praveenkumarre46/DSA-Revision/tree/master/0329-longest-increasing-path-in-a-matrix) |
 <!---LeetCode Topics End-->
