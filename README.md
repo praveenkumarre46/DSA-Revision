@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2741-special-permutations](https://github.com/praveenkumarre46/DSA-Revision/tree/master/2741-special-permutations) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/praveenkumarre46/DSA-Revision/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/praveenkumarre46/DSA-Revision/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/praveenkumarre46/DSA-Revision/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3393-count-paths-with-the-given-xor-value](https://github.com/praveenkumarre46/DSA-Revision/tree/master/3393-count-paths-with-the-given-xor-value) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/praveenkumarre46/DSA-Revision/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3447-assign-elements-to-groups-with-constraints](https://github.com/praveenkumarre46/DSA-Revision/tree/master/3447-assign-elements-to-groups-with-constraints) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2661-first-completely-painted-row-or-column](https://github.com/praveenkumarre46/DSA-Revision/tree/master/2661-first-completely-painted-row-or-column) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/praveenkumarre46/DSA-Revision/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/praveenkumarre46/DSA-Revision/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/praveenkumarre46/DSA-Revision/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3447-assign-elements-to-groups-with-constraints](https://github.com/praveenkumarre46/DSA-Revision/tree/master/3447-assign-elements-to-groups-with-constraints) |
 | [3483-unique-3-digit-even-numbers](https://github.com/praveenkumarre46/DSA-Revision/tree/master/3483-unique-3-digit-even-numbers) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/praveenkumarre46/DSA-Revision/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -379,8 +381,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/praveenkumarre46/DSA-Revision/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/praveenkumarre46/DSA-Revision/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 ## Segment Tree
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/praveenkumarre46/DSA-Revision/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/praveenkumarre46/DSA-Revision/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 <!---LeetCode Topics End-->
