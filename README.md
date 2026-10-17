@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3447-assign-elements-to-groups-with-constraints](https://github.com/praveenkumarre46/DSA-Revision/tree/master/3447-assign-elements-to-groups-with-constraints) |
 | [3483-unique-3-digit-even-numbers](https://github.com/praveenkumarre46/DSA-Revision/tree/master/3483-unique-3-digit-even-numbers) |
 | [3524-find-x-value-of-array-i](https://github.com/praveenkumarre46/DSA-Revision/tree/master/3524-find-x-value-of-array-i) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/praveenkumarre46/DSA-Revision/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/praveenkumarre46/DSA-Revision/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3854-minimum-operations-to-make-array-parity-alternating](https://github.com/praveenkumarre46/DSA-Revision/tree/master/3854-minimum-operations-to-make-array-parity-alternating) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/praveenkumarre46/DSA-Revision/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/praveenkumarre46/DSA-Revision/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3447-assign-elements-to-groups-with-constraints](https://github.com/praveenkumarre46/DSA-Revision/tree/master/3447-assign-elements-to-groups-with-constraints) |
 | [3483-unique-3-digit-even-numbers](https://github.com/praveenkumarre46/DSA-Revision/tree/master/3483-unique-3-digit-even-numbers) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/praveenkumarre46/DSA-Revision/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/praveenkumarre46/DSA-Revision/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Matrix
 |  |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/praveenkumarre46/DSA-Revision/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/praveenkumarre46/DSA-Revision/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/praveenkumarre46/DSA-Revision/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/praveenkumarre46/DSA-Revision/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/praveenkumarre46/DSA-Revision/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Heap (Priority Queue)
 |  |
