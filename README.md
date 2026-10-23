@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-unique-3-digit-even-numbers](https://github.com/praveenkumarre46/DSA-Revision/tree/master/3483-unique-3-digit-even-numbers) |
 | [3524-find-x-value-of-array-i](https://github.com/praveenkumarre46/DSA-Revision/tree/master/3524-find-x-value-of-array-i) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/praveenkumarre46/DSA-Revision/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/praveenkumarre46/DSA-Revision/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/praveenkumarre46/DSA-Revision/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3854-minimum-operations-to-make-array-parity-alternating](https://github.com/praveenkumarre46/DSA-Revision/tree/master/3854-minimum-operations-to-make-array-parity-alternating) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/praveenkumarre46/DSA-Revision/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2741-special-permutations](https://github.com/praveenkumarre46/DSA-Revision/tree/master/2741-special-permutations) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/praveenkumarre46/DSA-Revision/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3393-count-paths-with-the-given-xor-value](https://github.com/praveenkumarre46/DSA-Revision/tree/master/3393-count-paths-with-the-given-xor-value) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/praveenkumarre46/DSA-Revision/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Enumeration
 |  |
 | ------- |
