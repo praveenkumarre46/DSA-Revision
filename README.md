@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/praveenkumarre46/DSA-Revision/tree/master/0835-image-overlap) |
 | [1034-coloring-a-border](https://github.com/praveenkumarre46/DSA-Revision/tree/master/1034-coloring-a-border) |
 | [1036-escape-a-large-maze](https://github.com/praveenkumarre46/DSA-Revision/tree/master/1036-escape-a-large-maze) |
+| [1254-number-of-closed-islands](https://github.com/praveenkumarre46/DSA-Revision/tree/master/1254-number-of-closed-islands) |
 | [1298-maximum-candies-you-can-get-from-boxes](https://github.com/praveenkumarre46/DSA-Revision/tree/master/1298-maximum-candies-you-can-get-from-boxes) |
 | [1306-jump-game-iii](https://github.com/praveenkumarre46/DSA-Revision/tree/master/1306-jump-game-iii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/praveenkumarre46/DSA-Revision/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0675-cut-off-trees-for-golf-event](https://github.com/praveenkumarre46/DSA-Revision/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0835-image-overlap](https://github.com/praveenkumarre46/DSA-Revision/tree/master/0835-image-overlap) |
 | [1034-coloring-a-border](https://github.com/praveenkumarre46/DSA-Revision/tree/master/1034-coloring-a-border) |
+| [1254-number-of-closed-islands](https://github.com/praveenkumarre46/DSA-Revision/tree/master/1254-number-of-closed-islands) |
 | [1765-map-of-highest-peak](https://github.com/praveenkumarre46/DSA-Revision/tree/master/1765-map-of-highest-peak) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/praveenkumarre46/DSA-Revision/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/praveenkumarre46/DSA-Revision/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-escape-a-large-maze](https://github.com/praveenkumarre46/DSA-Revision/tree/master/1036-escape-a-large-maze) |
 | [1096-brace-expansion-ii](https://github.com/praveenkumarre46/DSA-Revision/tree/master/1096-brace-expansion-ii) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/praveenkumarre46/DSA-Revision/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1254-number-of-closed-islands](https://github.com/praveenkumarre46/DSA-Revision/tree/master/1254-number-of-closed-islands) |
 | [1298-maximum-candies-you-can-get-from-boxes](https://github.com/praveenkumarre46/DSA-Revision/tree/master/1298-maximum-candies-you-can-get-from-boxes) |
 | [1302-deepest-leaves-sum](https://github.com/praveenkumarre46/DSA-Revision/tree/master/1302-deepest-leaves-sum) |
 | [1306-jump-game-iii](https://github.com/praveenkumarre46/DSA-Revision/tree/master/1306-jump-game-iii) |
@@ -264,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1034-coloring-a-border](https://github.com/praveenkumarre46/DSA-Revision/tree/master/1034-coloring-a-border) |
 | [1036-escape-a-large-maze](https://github.com/praveenkumarre46/DSA-Revision/tree/master/1036-escape-a-large-maze) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/praveenkumarre46/DSA-Revision/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1254-number-of-closed-islands](https://github.com/praveenkumarre46/DSA-Revision/tree/master/1254-number-of-closed-islands) |
 | [1302-deepest-leaves-sum](https://github.com/praveenkumarre46/DSA-Revision/tree/master/1302-deepest-leaves-sum) |
 | [1306-jump-game-iii](https://github.com/praveenkumarre46/DSA-Revision/tree/master/1306-jump-game-iii) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/praveenkumarre46/DSA-Revision/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -416,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/praveenkumarre46/DSA-Revision/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/praveenkumarre46/DSA-Revision/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Fermat's Little Theorem
 |  |
