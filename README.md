@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/praveenkumarre46/DSA-Revision/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/praveenkumarre46/DSA-Revision/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/praveenkumarre46/DSA-Revision/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/praveenkumarre46/DSA-Revision/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3854-minimum-operations-to-make-array-parity-alternating](https://github.com/praveenkumarre46/DSA-Revision/tree/master/3854-minimum-operations-to-make-array-parity-alternating) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/praveenkumarre46/DSA-Revision/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/praveenkumarre46/DSA-Revision/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/praveenkumarre46/DSA-Revision/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3393-count-paths-with-the-given-xor-value](https://github.com/praveenkumarre46/DSA-Revision/tree/master/3393-count-paths-with-the-given-xor-value) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/praveenkumarre46/DSA-Revision/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/praveenkumarre46/DSA-Revision/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/praveenkumarre46/DSA-Revision/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Enumeration
 |  |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1302-deepest-leaves-sum](https://github.com/praveenkumarre46/DSA-Revision/tree/master/1302-deepest-leaves-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/praveenkumarre46/DSA-Revision/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/praveenkumarre46/DSA-Revision/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/praveenkumarre46/DSA-Revision/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -279,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-jump-game-iii](https://github.com/praveenkumarre46/DSA-Revision/tree/master/1306-jump-game-iii) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/praveenkumarre46/DSA-Revision/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/praveenkumarre46/DSA-Revision/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/praveenkumarre46/DSA-Revision/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Math
 |  |
 | ------- |
@@ -320,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/praveenkumarre46/DSA-Revision/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/praveenkumarre46/DSA-Revision/tree/master/3498-reverse-degree-of-a-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/praveenkumarre46/DSA-Revision/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/praveenkumarre46/DSA-Revision/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/praveenkumarre46/DSA-Revision/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Stack
 |  |
@@ -416,15 +421,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/praveenkumarre46/DSA-Revision/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/praveenkumarre46/DSA-Revision/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/praveenkumarre46/DSA-Revision/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Segment Tree
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/praveenkumarre46/DSA-Revision/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/praveenkumarre46/DSA-Revision/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/praveenkumarre46/DSA-Revision/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/praveenkumarre46/DSA-Revision/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/praveenkumarre46/DSA-Revision/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Union-Find
 |  |
 | ------- |
