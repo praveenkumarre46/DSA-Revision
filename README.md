@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/praveenkumarre46/DSA-Revision/tree/master/0079-word-search) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/praveenkumarre46/DSA-Revision/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/praveenkumarre46/DSA-Revision/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/praveenkumarre46/DSA-Revision/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0835-image-overlap](https://github.com/praveenkumarre46/DSA-Revision/tree/master/0835-image-overlap) |
 | [1034-coloring-a-border](https://github.com/praveenkumarre46/DSA-Revision/tree/master/1034-coloring-a-border) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0365-water-and-jug-problem](https://github.com/praveenkumarre46/DSA-Revision/tree/master/0365-water-and-jug-problem) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/praveenkumarre46/DSA-Revision/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0836-rectangle-overlap](https://github.com/praveenkumarre46/DSA-Revision/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/praveenkumarre46/DSA-Revision/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/praveenkumarre46/DSA-Revision/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
