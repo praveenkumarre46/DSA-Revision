@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2352-equal-row-and-column-pairs](https://github.com/praveenkumarre46/DSA-Revision/tree/master/2352-equal-row-and-column-pairs) |
 | [2661-first-completely-painted-row-or-column](https://github.com/praveenkumarre46/DSA-Revision/tree/master/2661-first-completely-painted-row-or-column) |
 | [2741-special-permutations](https://github.com/praveenkumarre46/DSA-Revision/tree/master/2741-special-permutations) |
+| [2747-count-zero-request-servers](https://github.com/praveenkumarre46/DSA-Revision/tree/master/2747-count-zero-request-servers) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/praveenkumarre46/DSA-Revision/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/praveenkumarre46/DSA-Revision/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/praveenkumarre46/DSA-Revision/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/praveenkumarre46/DSA-Revision/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2352-equal-row-and-column-pairs](https://github.com/praveenkumarre46/DSA-Revision/tree/master/2352-equal-row-and-column-pairs) |
 | [2661-first-completely-painted-row-or-column](https://github.com/praveenkumarre46/DSA-Revision/tree/master/2661-first-completely-painted-row-or-column) |
+| [2747-count-zero-request-servers](https://github.com/praveenkumarre46/DSA-Revision/tree/master/2747-count-zero-request-servers) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/praveenkumarre46/DSA-Revision/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/praveenkumarre46/DSA-Revision/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/praveenkumarre46/DSA-Revision/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/praveenkumarre46/DSA-Revision/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/praveenkumarre46/DSA-Revision/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/praveenkumarre46/DSA-Revision/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2747-count-zero-request-servers](https://github.com/praveenkumarre46/DSA-Revision/tree/master/2747-count-zero-request-servers) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/praveenkumarre46/DSA-Revision/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/praveenkumarre46/DSA-Revision/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/praveenkumarre46/DSA-Revision/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -203,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/praveenkumarre46/DSA-Revision/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/praveenkumarre46/DSA-Revision/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/praveenkumarre46/DSA-Revision/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2747-count-zero-request-servers](https://github.com/praveenkumarre46/DSA-Revision/tree/master/2747-count-zero-request-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/praveenkumarre46/DSA-Revision/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Prefix Sum
 |  |
